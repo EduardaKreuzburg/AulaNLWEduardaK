@@ -34,7 +34,7 @@ function selectImage(event) {
     buttons.forEach(removeActiveClass)
 
     function removeActiveClass(button){
-        button.classList.remove(".active")
+        button.classList.remove("active")
     }
 
     //selecionar a imagem clicada
